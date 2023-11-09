@@ -1,6 +1,6 @@
-public class Car{
+public class file1 {
 public static void main (String args[]) {
-Car c = new Car();
-System.out.println(c);
+file1 f = new file1();
+System.out.println(f);
 }
 }
